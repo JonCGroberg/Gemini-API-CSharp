@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9y/yNstS3YDiW+BvuCLMm+Mrw3DVRCiPU2VjxyJ8rqI4WrmMEZZU5BvU8bnrAkyk0OM0IsNZsqPVjUXS7xRH2g==",
+  "dgSpecHash": "2rgZedXPGww2T2ne12n5sEp2SXG7gnhPH9iTu/jd8P35KN/rT/5RMHy6Pb+lTcgKKP9CvzolyAitVw6NrD5CiA==",
   "success": true,
   "projectFilePath": "/Users/jonathangroberg/code/.NET/C#/C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jonathangroberg/.nuget/packages/dotenv.net/3.2.0/dotenv.net.3.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
