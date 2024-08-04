@@ -1,0 +1,14 @@
+/Users/jonathangroberg/code/.NET/C#/bin/Debug/net8.0/C#
+/Users/jonathangroberg/code/.NET/C#/bin/Debug/net8.0/C#.deps.json
+/Users/jonathangroberg/code/.NET/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/jonathangroberg/code/.NET/C#/bin/Debug/net8.0/C#.dll
+/Users/jonathangroberg/code/.NET/C#/bin/Debug/net8.0/C#.pdb
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.dll
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.pdb
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/jonathangroberg/code/.NET/C#/obj/Debug/net8.0/ref/C#.dll
